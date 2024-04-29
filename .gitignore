@@ -49,3 +49,4 @@ macos/Runner/GoogleService-Info.plist
 ios/firebase_app_id_file.json
 android/app/google-services.json
 ios/Runner/GoogleService-Info.plist
+macos/firebase_app_id_file.json
