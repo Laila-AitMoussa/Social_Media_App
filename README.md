@@ -18,10 +18,7 @@ Social Media App is a [Flutter](https://flutter.dev/) application for social net
 <p align="center">
    <p> Welcome Page</p>
     <img src="screenshots/welcomepage.png" width="200" height="400" />
-</p>
-
-<p align="center">
-   <p> Login Page</p>
+    <p> Login Page</p>
     <img src="screenshots/login_page.png" width="200" height="400" />
 </p>
 
@@ -35,13 +32,11 @@ Social Media App is a [Flutter](https://flutter.dev/) application for social net
     <img src="screenshots/home_page.png" width="200" height="400" />
 </p>
 
-![Add Post Page](screenshots/add_post_page.png)
 <p align="center">
    <p> Add Post Page</p>
     <img src="screenshots/add_post_page.png" width="200" height="400" />
 </p>
 
-![Serach Page](screenshots/search_page.png)
 <p align="center">
    <p> Search Page</p>
     <img src="screenshots/search_page.png" width="200" height="400" />
