@@ -16,7 +16,10 @@ Social App is a [Flutter](https://flutter.dev/) application for social networkin
 ## Screenshots
 
 <p align="center">
-    <img src="Social_Media_App.mp4" width="200" height="400" />
+    <video width="320" height="240" controls>
+        <source src="Social_Media_App.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 </p>
 
 ## Installation
@@ -31,7 +34,7 @@ For more details and a simple way to set up Firebase, see [FlutterFire](https://
 1. Clone this repository:
 
    ```bash
-   git clone [https://github.com/Laila-AitMoussa/Social_Media_App.git](https://github.com/Laila-AitMoussa/Social_Media_App.git)
+   git clone https://github.com/Laila-AitMoussa/Social_Media_App.git
    ```
 
 2. Navigate to the project directory:
