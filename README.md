@@ -1,6 +1,6 @@
 # Social Media App
 
-Social App is a [Flutter](https://flutter.dev/) application for social networking. It allows users to create posts, like posts, comment on posts, follow/unfollow other users, delete their own posts, and more.
+Social Media App is a [Flutter](https://flutter.dev/) application for social networking. It allows users to create posts, like posts, comment on posts, follow/unfollow other users, delete their own posts, and more.
 
 ## Features
 
@@ -15,12 +15,22 @@ Social App is a [Flutter](https://flutter.dev/) application for social networkin
 
 ## Screenshots
 
-<p align="center">
-    <video width="320" height="240" controls>
-        <source src="Social_Media_App.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</p>
+![Welcome Page](screenshots/welcomepage.png)
+
+![Login Page](screenshots/login_page.png)
+
+![Sign Up Page](screenshots/signup_page.png)
+
+![Home Page](screenshots/home_page.png)
+
+![Add Post Page](screenshots/add_post_page.png)
+
+![Serach Page](screenshots/search_page.png)
+
+![Profile Page](screenshots/profile_page.png)
+
+![Edit Profile Page](screenshots/edit_page.png)
+
 
 ## Installation
 
