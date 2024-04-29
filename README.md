@@ -16,10 +16,10 @@ Social Media App is a [Flutter](https://flutter.dev/) application for social net
 ## Screenshots
 
 <p align="center">
- <div> Welcome Page<img src="screenshots/welcomepage.png" width="200" height="400" /></div>
- <div>  Login Page<img src="screenshots/login_page.png" width="200" height="400" /></div>
- <div>  Sign Up Page<img src="screenshots/signup_page.png" width="200" height="400" /></div>
- <div>  Home Page<img src="screenshots/home_page.png" width="200" height="400" /></div>
+ <img src="screenshots/welcomepage.png" width="200" height="400" />
+ <img src="screenshots/login_page.png" width="200" height="400" />
+ <img src="screenshots/signup_page.png" width="200" height="400" />
+ <img src="screenshots/home_page.png" width="200" height="400" />
 </p>
 <p align="center">
   <img src="screenshots/add_post_page.png" width="200" height="400" />
