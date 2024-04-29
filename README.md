@@ -16,40 +16,29 @@ Social Media App is a [Flutter](https://flutter.dev/) application for social net
 ## Screenshots
 
 <p align="center">
-   <p> Welcome Page</p>
-    <img src="screenshots/welcomepage.png" width="200" height="400" />
-    <p> Login Page</p>
-    <img src="screenshots/login_page.png" width="200" height="400" />
-</p>
+  <p> Welcome Page</p>
+  <img src="screenshots/welcomepage.png" width="200" height="400" />
 
-<p align="center">
-   <p> Sign Up Page</p>
-    <img src="screenshots/signup_page.png" width="200" height="400" />
-</p>
+  <p> Login Page</p>
+  <img src="screenshots/login_page.png" width="200" height="400" />
 
-<p align="center">
-   <p> Home Page</p>
-    <img src="screenshots/home_page.png" width="200" height="400" />
-</p>
+  <p> Sign Up Page</p>
+  <img src="screenshots/signup_page.png" width="200" height="400" />
 
-<p align="center">
-   <p> Add Post Page</p>
-    <img src="screenshots/add_post_page.png" width="200" height="400" />
-</p>
+  <p> Home Page</p>
+  <img src="screenshots/home_page.png" width="200" height="400" />
 
-<p align="center">
-   <p> Search Page</p>
-    <img src="screenshots/search_page.png" width="200" height="400" />
-</p>
+  <p> Add Post Page</p>
+  <img src="screenshots/add_post_page.png" width="200" height="400" />
 
-<p align="center">
-   <p> Profile Page</p>
-    <img src="screenshots/profile_page.png" width="200" height="400" />
-</p>
+  <p> Search Page</p>
+  <img src="screenshots/search_page.png" width="200" height="400" />
 
-<p align="center">
-   <p> Edit Profile Page Page</p>
-    <img src="screenshots/edit_page.png" width="200" height="400" />
+  <p> Profile Page</p>
+  <img src="screenshots/profile_page.png" width="200" height="400" />
+
+  <p> Edit Profile Page Page</p>
+  <img src="screenshots/edit_page.png" width="200" height="400" />
 </p>
 
 
