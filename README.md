@@ -67,6 +67,20 @@ For more details and a simple way to set up Firebase, see [FlutterFire](https://
    ```bash
    flutter run
    ```
+## Dependencies
+
+- **cached_network_image**: A Flutter library to load and cache network images.
+- **cloud_firestore**: Flutter plugin for Cloud Firestore, a cloud-hosted, NoSQL database with live synchronization and offline support.
+- **firebase_auth**: Flutter plugin for Firebase Auth, which enables Flutter apps to use Firebase services like authentication, identity verification, and more.
+- **firebase_core**: Flutter plugin for Firebase Core, which enables Flutter apps to use Firebase services such as Analytics, Authentication, and more.
+- **firebase_storage**: Flutter plugin for Firebase Cloud Storage, a powerful, simple, and cost-effective object storage service built for Google scale.
+- **gap**: A Flutter package to create space between widgets.
+- **image_picker**: Flutter plugin for selecting images from the Android and iOS image library and taking new pictures with the camera.
+- **image_stack**: A Flutter package to stack images and blend them into a single image with optional configurations.
+- **intl**: Provides internationalization and localization support for Flutter applications.
+- **provider**: State management library for Flutter applications, providing an elegant solution for managing application state.
+- **transparent_image**: A Flutter package to load transparent images from the network.
+- **uuid**: A simple package to generate RFC4122 UUIDs.
 
 ## Contributing
 
